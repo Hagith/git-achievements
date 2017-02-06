@@ -2,6 +2,7 @@
 <title>Rafal Galka's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Master Cathedral Worker (Level 8)</title><description>Cloned submodule repository and checked out commits specified by superproject.</description></item>
 <item><title>Master Blacksmith (Level 9)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Seamstress (Level 5)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Master Carpenter (Level 18)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Hunter (Level 2)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
 <item><title>Apprentice Hunter (Level 1)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
 <item><title>Apprentice Plumber (Level 3)</title><description>Use the internal plumbing commands of git.</description></item>
-<item><title>Apprentice Plumber (Level 2)</title><description>Use the internal plumbing commands of git.</description></item>
 </channel></rss>
